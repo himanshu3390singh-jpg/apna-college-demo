@@ -1,4 +1,5 @@
 # apna-college-demo
 fiest repo 
 <br>
-author himanshu singh
+author himanshu Singh
+
